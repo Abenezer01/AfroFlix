@@ -5,7 +5,7 @@
   <title>Afroflix</title>
   <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.8.2/css/all.css'>
   {{-- <link rel="stylesheet" href="{{ URL::asset('/css/lpstyle.css') }}"> --}}
-{{ URL::asset('css/lpstyle.css'); }}
+{{ URL::asset('css/lpstyle.css') }}
 
   {{-- <script  src="{{ URL::asset('/js/lpscript.js') }}" ></script> --}}
 </head>
